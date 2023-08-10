@@ -2,7 +2,7 @@ import os
 import wget
 import shutil
 
-id = input('Введите ID: ')
+id = input('Введите id: ')
 frames = input('Введите количество кадров: ')
 downloadType = input('Введите тип: ')
 frame = 0
